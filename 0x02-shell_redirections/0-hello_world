@@ -1,2 +1,1 @@
-#!/bin/bash
-# mon premier script echo 'hello, world' > /tmp/h$
+#!/bin/bash/n echo "hello, world" 
